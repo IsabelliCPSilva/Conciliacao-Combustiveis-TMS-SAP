@@ -1,3 +1,5 @@
+[Relatório Combustível 2026.xlsx](https://github.com/user-attachments/files/26916261/Relatorio.Combustivel.2026.xlsx)
+[IT.Combustiveis.pptx](https://github.com/user-attachments/files/26916259/IT.Combustiveis.pptx)
 🔄 Conciliación de Combustibles TMS × SAP
 
 Proyecto real desarrollado por Isabelli Cristina Pereira da Silva
